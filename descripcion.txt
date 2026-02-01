@@ -1,1 +1,3 @@
 Primera versión del archivo de texto plano.
+Segunda versión: he realizado una modificación.
+Fecha: 01/02/2026
